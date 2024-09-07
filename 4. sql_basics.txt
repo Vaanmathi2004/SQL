@@ -44,4 +44,4 @@
 
 2 FROM employee
 
-3 WHERE employee.salary > 30000
+3 WHERE employee.salary > 30000;
